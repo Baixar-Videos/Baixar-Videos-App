@@ -1,0 +1,51 @@
+#loader{
+	position: fixed;
+    z-index: 100;
+	width: 100%;
+	height: 100%;
+	background-color: #eee;
+}
+#espaco{
+	margin-top: 250px;
+}
+.delay{
+    -webkit-animation-delay: 3s; /* Safari 4.0 - 8.0 */
+    animation-delay: 3s;
+}
+.texto_cinza{
+	color: rgba(0, 0, 0, 0.45);
+	font-size: 4.0vh;
+}
+.texto_boas_vindas{
+	font-size: 4.8vh;
+}
+.texto_titulo{
+  font-size: 6.8vh;
+  font-weight: 400;
+  margin-bottom: 4.8vh;
+}
+.pg_espaco{
+    padding: 5%;
+}
+.formulario{
+  transition: all 0.1s;
+  transition-timing-function: linear;
+  display: inline-block;
+  float: left;
+  transform: translateY(-2px);
+  color: #979494;
+  cursor: auto;
+  width: 100%;
+  display: block;
+  border: none;
+  border-bottom: 1px solid #262654;
+  outline: none;
+  padding: 10px 0px 10px 0px;
+  font-family: "Lato", sans-serif;
+  color: #606060;
+  font-size: 20px;
+}
+.formulario:focus {
+  transform: translateY(-5px);
+  font-size: 17px;
+}

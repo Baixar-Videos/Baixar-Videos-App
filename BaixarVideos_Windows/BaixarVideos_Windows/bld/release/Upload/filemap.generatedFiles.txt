@@ -1,0 +1,2 @@
+bld\Release\Upload\filemap.pri
+bld\Release\Upload\filemap.map.txt

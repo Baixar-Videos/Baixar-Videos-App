@@ -1,0 +1,17 @@
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\Debug\AppxManifest.xml
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\Debug\BaixarVideos_Windows.build.appxrecipe
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\BaixarVideos_Windows.jsproj.CoreCompileInputs.cache
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\ResourceHandlingTask.state
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\priconfig.xml
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\layout.resfiles
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\resources.resfiles
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\pri.resfiles
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\qualifiers.txt
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RUBENS-FLINCO-P</Machine>
+    <WindowsUser>plane</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>d948975a-5341-4cd3-907e-2d2cd03ed22e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=plane</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

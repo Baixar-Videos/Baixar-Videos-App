@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\Upload\filemap.pri"			"resources.pri"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\msapp-error.js"			"msapp-error.js"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\msapp-error.html"			"msapp-error.html"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\msapp-error.css"			"msapp-error.css"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\Wide310x150Logo.scale-200.png"			"images\Wide310x150Logo.scale-200.png"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\StoreLogo.png"			"images\StoreLogo.png"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\Square44x44Logo.targetsize-24_altform-unplated.png"			"images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\Square44x44Logo.scale-200.png"			"images\Square44x44Logo.scale-200.png"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\Square150x150Logo.scale-200.png"			"images\Square150x150Logo.scale-200.png"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\SplashScreen.scale-200.png"			"images\SplashScreen.scale-200.png"
+"C:\Users\plane\Dropbox\Apps\BaixarVideos_Windows\BaixarVideos_Windows\bld\Release\PackageUploadLayout\images\LockScreenLogo.scale-200.png"			"images\LockScreenLogo.scale-200.png"

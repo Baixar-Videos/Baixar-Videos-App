@@ -1,0 +1,2 @@
+bld\Release\split.pri
+bld\Release\split.map.txt

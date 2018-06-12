@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package IgnorableNamespaces="uap mp build" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+  <!--
+    ESTE ARQUIVO DE PACOTE DE MANIFESTO É GERADO PELO PROCESSO DE COMPILAÇÃO.
+
+    Alterações feitas neste arquivo serão perdidas quando ele for regenerado. Para corrigir erros neste arquivo, edite o arquivo de fonte .appxmanifest.
+
+    Para obter mais informações sobre arquivos de pacote de manifesto consulte http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="planetsweb.baixarvideos.v11" Publisher="CN=Apache Cordova Team" Version="11.3.6.0" ProcessorArchitecture="x64" />
+  <mp:PhoneIdentity PhoneProductId="0b0c47d0-b78f-11e7-acfd-b58c83d726ab" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>Baixar Vídeos</DisplayName>
+    <PublisherDisplayName>PlanetsWEB</PublisherDisplayName>
+    <Logo>images\StoreLogo.png</Logo>
+    <Description>APP build test.</Description>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily MaxVersionTested="10.0.15063.0" MinVersion="10.0.10240.0" Name="Windows.Universal" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="PT-BR" />
+  </Resources>
+  <Applications>
+    <Application Id="planetsweb.baixarvideos.v11" StartPage="ms-appx-web://planetsweb.baixarvideos.v11/www/index.html">
+      <uap:VisualElements BackgroundColor="#464646" Description="APP build test." DisplayName="Baixar Vídeos" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+        <uap:SplashScreen Image="images\splashscreen.png" />
+        <uap:DefaultTile ShortName="Baixar Vídeos" Square310x310Logo="images\Square310x310Logo.png" Square71x71Logo="images\Square71x71Logo.png" Wide310x150Logo="images\Wide310x150Logo.png" />
+        <uap:InitialRotationPreference>
+          <uap:Rotation Preference="portrait" />
+          <uap:Rotation Preference="landscape" />
+          <uap:Rotation Preference="landscapeFlipped" />
+        </uap:InitialRotationPreference>
+      </uap:VisualElements>
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Match="ms-appx-web:///" Type="include" WindowsRuntimeAccess="all" />
+      </uap:ApplicationContentUriRules>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>CLRHost.dll</Path>
+        <ActivatableClass ActivatableClassId="GlobalizationProxy.GlobalizationProxy" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+  <build:Metadata>
+    <build:Item Name="SharedGUID" Value="9ebdb27f-d75b-4d8c-b53f-7be4a1fe89f9" />
+    <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />
+    <build:Item Name="VisualStudio" Version="15.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Professional 2017" />
+    <build:Item Name="OperatingSystem" Version="10.0.15063.0 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.26720.2" />
+    <build:Item Name="ProjectGUID" Value="451705f2-8895-40a1-8927-961be8d7b062" />
+    <build:Item Name="OptimizingToolset" Value="None" />
+    <build:Item Name="TargetRuntime" Value="AppHost" />
+    <build:Item Name="MakePri.exe" Version="10.0.15063.468 (WinBuild.160101.0800)" />
+  </build:Metadata>
+</Package>
